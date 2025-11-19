@@ -1,0 +1,24 @@
+2025-11-18 21:36:13,813 - INFO - Processing C:\Users\obai\Downloads\contacts.csv
+2025-11-18 21:36:13,829 - INFO - Validated C:\Users\obai\Downloads\contacts.csv: 3949 rows
+2025-11-18 21:36:13,983 - INFO - Processing C:\Users\obai\Downloads\contacts (1).csv
+2025-11-18 21:36:13,985 - INFO - Validated C:\Users\obai\Downloads\contacts (1).csv: 77 rows
+2025-11-18 21:36:13,998 - INFO - Processing C:\Users\obai\Downloads\contacts (2).csv
+2025-11-18 21:36:13,998 - INFO - Validated C:\Users\obai\Downloads\contacts (2).csv: 1 rows
+2025-11-18 21:36:14,000 - INFO - Processing C:\Users\obai\Downloads\contacts (3).csv
+2025-11-18 21:36:14,001 - INFO - Validated C:\Users\obai\Downloads\contacts (3).csv: 14 rows
+2025-11-18 21:36:14,004 - INFO - Processing C:\Users\obai\Downloads\contacts (4).csv
+2025-11-18 21:36:14,007 - INFO - Validated C:\Users\obai\Downloads\contacts (4).csv: 1085 rows
+2025-11-18 21:36:15,507 - INFO - Excel export complete: output/contacts_master.xlsx
+2025-11-18 21:36:15,507 - INFO - Summary: 4825 total, 1320 business, 702 personal
+2025-11-18 21:40:28,699 - INFO - Processing C:\Users\obai\Downloads\contacts.csv
+2025-11-18 21:40:28,739 - INFO - Validated C:\Users\obai\Downloads\contacts.csv: 3949 rows
+2025-11-18 21:40:28,880 - INFO - Processing C:\Users\obai\Downloads\contacts (1).csv
+2025-11-18 21:40:28,884 - INFO - Validated C:\Users\obai\Downloads\contacts (1).csv: 77 rows
+2025-11-18 21:40:28,897 - INFO - Processing C:\Users\obai\Downloads\contacts (2).csv
+2025-11-18 21:40:28,898 - INFO - Validated C:\Users\obai\Downloads\contacts (2).csv: 1 rows
+2025-11-18 21:40:28,899 - INFO - Processing C:\Users\obai\Downloads\contacts (3).csv
+2025-11-18 21:40:28,901 - INFO - Validated C:\Users\obai\Downloads\contacts (3).csv: 14 rows
+2025-11-18 21:40:28,902 - INFO - Processing C:\Users\obai\Downloads\contacts (4).csv
+2025-11-18 21:40:28,906 - INFO - Validated C:\Users\obai\Downloads\contacts (4).csv: 1085 rows
+2025-11-18 21:40:30,159 - INFO - Excel export complete: output/contacts_master.xlsx
+2025-11-18 21:40:30,160 - INFO - Summary: 4825 total, 1320 business, 702 personal
